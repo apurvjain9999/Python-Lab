@@ -1,0 +1,6 @@
+T1 read B
+T2 write B
+T1 read A
+T4 write B
+T1 read C
+T3 write C

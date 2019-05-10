@@ -1,0 +1,1 @@
+Total words are 20{'My': 5.0, 'name': 5.0, 'is': 15.0, 'Apurv': 5.0, 'This': 10.0, 'a': 10.0, 'pen': 5.0, 'book': 5.0, 'I': 10.0, 'love': 5.0, 'apples': 5.0, 'study': 5.0, 'in': 5.0, 'IIIT': 5.0, 'Kota': 5.0}

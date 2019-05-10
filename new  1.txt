@@ -1,0 +1,12 @@
+f=i*j
+		g=f
+		count=0
+		while g!=0:
+				g=g/10
+				count+=1
+		if count>=2 :
+			print("\t",end="\t")
+		else :
+			print("\t",end="\t\t")
+			
+		print(f,end="\t")
